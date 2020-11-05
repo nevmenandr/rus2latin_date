@@ -5,7 +5,7 @@ def long_desc():
         return f.read()
 
 setup(name='rus2latin_date',
-      version='1',
+      version='1.1',
       description='Utility for converting Russian date into Roman',
       long_description=long_desc(),
       classifiers=[
