@@ -24,7 +24,7 @@ num = {1: "I",
        6: "VI",
        7: "VII",
        8: "VIII",
-       9: "IX",
+       9: "VIIII",
        10: "X",
        11: "XI",
        12: "XII",
@@ -34,7 +34,7 @@ num = {1: "I",
        16: "XVI",
        17: "XVII",
        18: "XVIII",
-       19: "XIX"}
+       19: "XVIIII"}
 
 def abl(month):
     if month.endswith('us'):
