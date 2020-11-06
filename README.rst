@@ -24,7 +24,7 @@
     >>> c.conv("28 февраля 2012")
     'ante diem III Kalendas Martias'
     >>> c.conv("24 марта")
-    'ante diem IX Kalendas Apriles'
+    'ante diem VIIII Kalendas Apriles'
     >>> c.conv("15-11-1983")
     'ante diem XVII Kalendas Decembres'
     >>> c.conv("26.5.1900")
