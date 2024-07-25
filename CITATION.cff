@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: rus2latin_date
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Boris
+    family-names: Orekhov
+    name-particle: Boris Orekhov
+    email: nevmenandr@gmail.com
+    affiliation: HSE University
+    orcid: 'https://orcid.org/0000-0002-9099-0436'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.12814188
+repository-code: 'https://github.com/nevmenandr/rus2latin_date'
+url: 'https://vk.com/calendariumromanum'
+abstract: Python package for Russian date conversion into Latin.
+keywords:
+  - datetime
+  - latin
+  - roman
+license: GPL-3.0
+commit: 76263fe5c680ef565cfb74713b7c0d0a1fada75c
+version: '1.0'
+date-released: '2020-11-06'
